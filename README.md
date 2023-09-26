@@ -15,3 +15,5 @@ Thank you for visiting my profile. I'm thrilled to be part of this vibrant profe
 * [GitHub as @alighafoorzade (you are here)](https://github.com/alighafoorzade)
 * [LinkedIn](https://linkedin.com/in/ali-ghafoorzade/)
 * [Skype](https://join.skype.com/invite/dFQFGEvBmA61)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
