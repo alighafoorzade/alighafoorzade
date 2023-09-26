@@ -16,5 +16,5 @@ Thank you for visiting my profile. I'm thrilled to be part of this vibrant profe
 * [LinkedIn](https://linkedin.com/in/ali-ghafoorzade/)
 * [Skype](https://join.skype.com/invite/dFQFGEvBmA61)
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alighafoorzade&show_icons=true&theme=transparent)
+![Alis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alighafoorzade&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alighafoorzade&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
