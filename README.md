@@ -20,6 +20,4 @@ Thank you for visiting my profile. I'm thrilled to be part of this vibrant profe
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,wasm)](https://skillicons.dev)
 
 ### stats:
-
 ![Alis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alighafoorzade&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alighafoorzade&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
