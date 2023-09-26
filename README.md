@@ -16,6 +16,7 @@ Thank you for visiting my profile. I'm thrilled to be part of this vibrant profe
 * [LinkedIn](https://linkedin.com/in/ali-ghafoorzade/)
 * [Skype](https://join.skype.com/invite/dFQFGEvBmA61)
 
+### my skills:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,wasm)](https://skillicons.dev)
 
 ### stats:
