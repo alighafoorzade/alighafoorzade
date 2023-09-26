@@ -1,4 +1,4 @@
-### Hey! I'm __Amirhossein Jani__
+### Hey! I'm __Ali Ghafoorzade__
 
 I'm Alighafoorzade, a dedicated Frontend Engineer with a true passion for crafting dynamic and user-friendly web applications. My expertise lies in React.js, Next.js, and TypeScript, along with Tailwind CSS and Sass for creating seamless and interactive UIs. I've developed a lightweight UI library, prioritizing clean code for optimal performance and accessibility.
 
