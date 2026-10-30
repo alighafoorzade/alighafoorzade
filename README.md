@@ -1,6 +1,6 @@
 ### Hey! I'm __Ali Ghafoorzade__
 
-I'm Alighafoorzade, a dedicated Frontend Engineer with a true passion for crafting dynamic and user-friendly web applications. My expertise lies in React.js, Next.js, and TypeScript, along with Tailwind CSS and Sass for creating seamless and interactive UIs. I've developed a lightweight UI library, prioritizing clean code for optimal performance and accessibility.
+I'm Alighafoorzade, a dedicated Full-stack Engineer with a true passion for crafting dynamic and user-friendly web applications. My expertise lies in React.js, Next.js, and TypeScript, along with Tailwind CSS and Sass for creating seamless and interactive UIs. I've developed a lightweight UI library, prioritizing clean code for optimal performance and accessibility.
 
 As a mentor, I take pride in guiding and empowering junior developers to excel in their careers. During my enriching 6-month tenure at Esfahan Ahan, I successfully led transformative projects, including the migration of a website from Vue 2 to Next.js 13, integrating Redux for state management. The result was near-instant loading and an app-like offline experience, enhancing user engagement.
 
